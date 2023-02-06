@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chenwi Eugene
-- 🌱 I’m currently learning front end development
+- 🌱 I am a full Stack Web Developer.
 - 📫 How to reach me; 
 whatsapp : +237651395832 
 facebook: https://www.facebook.com/profile.php?id=100009608373380
