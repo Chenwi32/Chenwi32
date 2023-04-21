@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Chenwi Eugene
-- 🌱 I am a full Stack Web Developer.
+- 🌱 I am a full Stack Web Developer, passionate about developing solutions to common problems that plague the life of the common man.
+- 
 - 📫 How to reach me; 
 whatsapp : +237651395832 
 facebook: https://www.facebook.com/profile.php?id=100009608373380
