@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Chenwi Eugene
-- 🌱 I am a full Stack Web Developer, passionate about developing solutions to common problems that plague the life of the common man.
-- If you'd Like to know more about or support my endeavour you can reach out.
-- 📫 How to reach me; 
-whatsapp : +237651395832 
-facebook: https://www.facebook.com/profile.php?id=100009608373380
+- 🌱 I am a full-Stack Javascript Developer, passionate about developing solutions to common problems that plague the life of the common man.
+- Founder and developer at ProfilA.
+- 📫 How to reach me; <br>
+  [Portfolio](https://my-portfolio-chenwi32.vercel.app/)<br>
+  WhatsApp: +237651395832 <br>
+  [Facebook](https://www.facebook.com/profile.php?id=100009608373380)<br>
 
 <!---
 Chenwi32/Chenwi32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
